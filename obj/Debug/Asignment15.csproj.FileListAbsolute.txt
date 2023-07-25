@@ -1,0 +1,8 @@
+D:\mphasis\Day 12\Asignment15\Asignment15\bin\Debug\Asignment15.exe.config
+D:\mphasis\Day 12\Asignment15\Asignment15\bin\Debug\Asignment15.exe
+D:\mphasis\Day 12\Asignment15\Asignment15\bin\Debug\Asignment15.pdb
+D:\mphasis\Day 12\Asignment15\Asignment15\obj\Debug\Asignment15.csproj.AssemblyReference.cache
+D:\mphasis\Day 12\Asignment15\Asignment15\obj\Debug\Asignment15.csproj.SuggestedBindingRedirects.cache
+D:\mphasis\Day 12\Asignment15\Asignment15\obj\Debug\Asignment15.csproj.CoreCompileInputs.cache
+D:\mphasis\Day 12\Asignment15\Asignment15\obj\Debug\Asignment15.exe
+D:\mphasis\Day 12\Asignment15\Asignment15\obj\Debug\Asignment15.pdb
